@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
+Sept 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | 
 Sept 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%209-28-2019.md) | Was contacted by a graphics designer 
 Sept 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/edit/master/Notes/Activity%20Log%209-27-2019.md) | Faucet Bot works,  paid 15K to Nox for VPS, rewarded Joe 15K for the Faucet, Have been added to New Community
 Sept 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%209-26-2019.md) | Twitter bot, The Sugar Chronicle
