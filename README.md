@@ -8,7 +8,8 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Sept 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | Progress was made on the exchange
+Oct 1 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-1-2019.md) | 
+Sept 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%209-30-2019.md) | Progress was made on the exchange
 Sept 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%209-29-2019.md) | Work was done on Tipbot
 Sept 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%209-28-2019.md) | Was contacted by a graphics designer 
 Sept 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/edit/master/Notes/Activity%20Log%209-27-2019.md) | Faucet Bot works,  paid 15K to Nox for VPS, rewarded Joe 15K for the Faucet, Have been added to New Community
