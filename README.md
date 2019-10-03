@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 3 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | 
+Oct 3 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-3-2019.md) | 
 Oct 2 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-2-2019.md) | Application for Coingecko has been filled out
 Oct 1 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-1-2019.md) | LISTING, Sugarchain is open for deposits at Altmarkets, Sugarchain is now on Blockfolio and Delta thanks to @MetaNøx#2119
 Sept 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%209-30-2019.md) | Progress was made on the exchange
