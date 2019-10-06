@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
+Oct 6 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | Animated Server Icon for Discord
 Oct 5 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-5-2019.md) | Official email server has been established, @Yちゃん#4485 tested a LN Tx
 Oct 4 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-4-2019.md) | Github webhook added to Discord
 Oct 3 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-3-2019.md) | Sugarchain has been added to Coingecko, Reward 15K for work on Tipbot, testing LN
