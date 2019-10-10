@@ -9,7 +9,7 @@ A list of activities completed for the day.
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
 Oct 10 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | 
-Oct 9 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | I created a Medium article for Sugarchain
+Oct 9 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-9-2019.md) | I created a Medium article for Sugarchain
 Oct 8 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-8-2019.md) | Reddit Page for Sugarchain created by @Kez#3857 
 Oct 7 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-7-2019.md) | The Exchange Ex4ange submitted application for Blockfolio and Coingecko
 Oct 6 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-6-2019.md) | Animated Server Icon for Discord, @Kez#3857 designed a cover for Twitter Account, @Lupilu81#4581 donated 2K Sugar to the fund
