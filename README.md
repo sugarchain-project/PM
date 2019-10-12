@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-11-2019.md) | @crypt?zeny#3552 worked on the blocks downloading
+Oct 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-11-2019.md) | @crypt?zeny#3552 worked on the blocks downloading, @salmaan1234#7477 made great progress with his GUI miner for Sugarchain
 Oct 10 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-10-2019.md) | Today was a pretty slow day
 Oct 9 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-9-2019.md) | I created a Medium article for Sugarchain
 Oct 8 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-8-2019.md) | Reddit Page for Sugarchain created by @Kez#3857 
