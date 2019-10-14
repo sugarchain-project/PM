@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-13-2019.md) |
+Oct 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-13-2019.md) | @crypt?zeny#3552 got the -reindex-chanstate down to 2:50:00
 Oct 12 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-12-2019.md) | @salmaan1234#7477 released his GUI miner on github for windows (beta)
 Oct 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-11-2019.md) | @crypt?zeny#3552 worked on the blocks downloading, @salmaan1234#7477 made great progress with his GUI miner for Sugarchain
 Oct 10 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/AestheticSenpai/Sugarchain-pm/blob/master/Notes/Activity%20Log%2010-10-2019.md) | Heard back for potential website design
