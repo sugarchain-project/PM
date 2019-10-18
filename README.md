@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
+Oct 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |
 Oct 17 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-17-2019.md) | New edition of The Sugar Chronicle 
 Oct 16 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-16-2019.md) | @crypt?zeny#3552 released Yumekawa v23rc1 pre-release
 Oct 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-15-2019.md) | @Cryptoeva#5632 wrote Medium article of Sugarchain being in Crypto$Sky community 
