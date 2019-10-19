@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 19 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-19-2019.md) | New version of GUI miner is out (v1.1)
+Oct 19 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-19-2019.md) | New version of GUI miner is out (v1.1) , Talked to an exchange
 Oct 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-18-2019.md) | Contacted an exchange, Got an update for a new website design
 Oct 17 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-17-2019.md) | New edition of The Sugar Chronicle 
 Oct 16 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-16-2019.md) | @crypt?zeny#3552 released Yumekawa v23rc1 pre-release
