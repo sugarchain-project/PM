@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 20 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | 
+Oct 20 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-20-2019.md) | 
 Oct 19 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-19-2019.md) | New version of GUI miner is out (v1.1) , Talked to an exchange
 Oct 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-18-2019.md) | Contacted an exchange, Got an update for a new website design
 Oct 17 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-17-2019.md) | New edition of The Sugar Chronicle 
