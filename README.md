@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | 
+Oct 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-23-2019.md) | 
 Oct 22 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-22-2019.md) | More testing was done on the download speed of the wallet
 Oct 21 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-21-2019.md) | Work was done on OSX and Win64 builds
 Oct 20 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-20-2019.md) | 1,000,000th block is found by @Happysensor.xyz congrats! 
