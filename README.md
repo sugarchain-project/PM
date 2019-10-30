@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-26-2019.md) | 
+Oct 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-26-2019.md) | In regards to the MetaNox incident, information was gathered and the whole situation was discussed. 
 Oct 25 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-25-2019.md) | The estimated Lost Sugar from the Tipbot is around 500~600k SUGAR and in USD 60 $
 Oct 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-24-2019.md) | There is a plan to have a new Tipbot up and running hopefully soon 
 Oct 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-23-2019.md) | Due to an unfortunate event, the Tipbot remains down 
