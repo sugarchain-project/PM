@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Oct 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | I talked to an exchange and wow those are some prices
+Oct 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-29-2019.md) | I talked to an exchange and wow those are some prices
 Oct 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-28-2019.md) | Pre-release to the final released is out for the wallet
 Oct 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-27-2019.md) | Source code was released
 Oct 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-26-2019.md) | In regards to the MetaNox incident, information was gathered and the whole situation was discussed. 
