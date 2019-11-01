@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
+Nov 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | 
 Oct 31 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-31-2019.md) | Plans to set up a new Tipbot have been discussed 
 Oct 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-30-2019.md) | Release notes for Yumekawa v0.16.3.24-bloomy were released 
 Oct 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-29-2019.md) | I talked to an exchange and wow those are some prices
