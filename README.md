@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
-Nov 3  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-3-2019.md) | 
+Nov 3  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-3-2019.md) | A clear roadmap channel was created
 Nov 2  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-2-2019.md) | We set up a new Tipbot and also have a ranking bot as well
 Nov 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-1-2019.md) | Plans to add Mee6 bot
 Oct 31 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2010-31-2019.md) | Plans to set up a new Tipbot have been discussed 
