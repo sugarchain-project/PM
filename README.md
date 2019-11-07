@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Tl;dr
 |:---|:---|---|:---|
+Nov 7  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | 
 Nov 6  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-6-2019.md) | A Twitter account was created for more serious tweets regarding Sugarchain updates and news
 Nov 5  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-5-2019.md) | Sato?👀
 Nov 4  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-4-2019.md) | A new Giveaway bot has been added 
