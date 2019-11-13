@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Nov 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Nov 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-13-2019.md) |  | 
 Nov 12 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-12-2019.md) |  | Zeny made a [meme](https://github.com/sugarchain-project/media-distribution/blob/master/meme/meme-3-bech32.png)
 Nov 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-11-2019.md) |  | Raku Ten from Telegram has donated 100K Sugar to the Community Fund
 Nov 10 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-10-2019.md) |  | Final Release [Yumekawa v0.16.3.24-bloomy](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.24-bloomy)
