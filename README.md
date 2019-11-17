@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Nov 17 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Nov 16 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-16-2019.md) |  | Report of Sugar bought for the Community Fund 
 Nov 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-15-2019.md) |  | Plans to use the BTC fund to purchase more Sugar to then add to the Community Fund
 Nov 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-14-2019.md) | [The Sugar Chronicle #8](https://medium.com/@Sugarchain/the-sugar-chronicle-8-11-14-19-cc192ea683b6) | A new pool is in the works
