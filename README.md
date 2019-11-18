@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Nov 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Nov 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | I rewarded Salmaan, Joe, Aglkm 15K Sugar
 Nov 17 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-17-2019.md) |  | Tested a new GUI Miner that Salmaan created
 Nov 16 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-16-2019.md) |  | Report of Sugar bought for the Community Fund 
 Nov 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-15-2019.md) |  | Plans to use the BTC fund to purchase more Sugar to then add to the Community Fund
