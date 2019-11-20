@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Nov 19 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | New GUI Miner by Salmaan 
+Nov 19 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-19-2019.md) |  | New [GUI Miner](https://github.com/Nugetzrul3/CPU-GUI-Miner/releases/tag/v1.0) by Salmaan 
 Nov 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-18-2019.md) |  | I rewarded Salmaan, Joe, Aglkm 15K Sugar
 Nov 17 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-17-2019.md) |  | Tested a new GUI Miner that Salmaan created
 Nov 16 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-16-2019.md) |  | Report of Sugar bought for the Community Fund 
