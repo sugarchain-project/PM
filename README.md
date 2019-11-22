@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Nov 21 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-21-2019.md) | [The Sugar Chronicle #9]() | 
+Nov 21 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-21-2019.md) | [The Sugar Chronicle #9](https://medium.com/@Sugarchain/the-sugar-chronicle-9-11-21-19-7d33b48b7b8) | 
 Nov 20 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-20-2019.md) |  | Testnet v5 [Explorer](https://1explorer-testnet.cryptozeny.com/) and [Pool](https://1pool-testnet.cryptozeny.com/) are back up , Introducing a nice Discord bot Suggy! , I rewarded Aglkm 15K Sugar
 Nov 19 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-19-2019.md) |  | New [GUI Miner](https://github.com/Nugetzrul3/CPU-GUI-Miner/releases/tag/v1.0) by Salmaan 
 Nov 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-18-2019.md) |  | I rewarded Salmaan, Joe, Aglkm 15K Sugar
