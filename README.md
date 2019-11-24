@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Nov 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Nov 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-23-2019.md) |  | New channel for automated hashrate and price updates
 Nov 22 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-22-2019.md) |  | The whale donated 200K Sugar to the Community Fund
 Nov 21 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-21-2019.md) | [The Sugar Chronicle #9](https://medium.com/@Sugarchain/the-sugar-chronicle-9-11-21-19-7d33b48b7b8) | A new pool is being tested, plans to further customize Suggy bot
