@@ -1,1 +1,1 @@
-1. 
+1. Tipbot Funds are Safu
