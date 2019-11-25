@@ -1,1 +1,1 @@
-1. 
+1. Coingecko bot
