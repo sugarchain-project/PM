@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Nov 25 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-25-2019.md) |  | Coingecko bot
+Nov 25 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-25-2019.md) |  | Coingecko bot, 2 new pools coming soon, I rewarded @ROZ-mofumofu.me 15K Sugar
 Nov 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-24-2019.md) |  | Tipbot Funds are Safu
 Nov 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-23-2019.md) |  | New channel for automated hashrate and price updates
 Nov 22 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-22-2019.md) |  | The whale donated 200K Sugar to the Community Fund
