@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Nov 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Nov 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-27-2019.md) |  | 
 Nov 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-26-2019.md) |  | Plans to clean up Discord, starting a reward campaign to designers
 Nov 25 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-25-2019.md) |  | Coingecko bot, 2 new pools coming soon, I rewarded ROZ-mofumofu.me 15K Sugar
 Nov 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-24-2019.md) |  | Tipbot Funds are Safu
