@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Nov 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | I rewarded @aglkm#2786 15K for making the FAQ
 Nov 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-29-2019.md) |  | I started giving out rewards for those that submit art, come check out #design
 Nov 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-28-2019.md) | [The Sugar Chronicle #10](https://medium.com/@Sugarchain/the-sugar-chronicle-10-11-28-19-9901548f71d1) | The whale donated 100K to the Community Fund
 Nov 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-27-2019.md) |  | Slight change with the channels on Discord
