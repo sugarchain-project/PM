@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 2  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-2-2019.md) |  | 
+Dec 2  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-2-2019.md) |  | New ATH, 100 days since the launch on 24th of August, it's been a very *eventful* couple of months, here's to what lies ahead
 Dec 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-1-2019.md) |  | 100 Sugar airdrop everyday leading up to New Year to select few in Discord and Telegram and Wechat groups, Webminer? 👀
 Nov 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-30-2019.md) |  | I rewarded @aglkm#2786 15K for making the FAQ
 Nov 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2011-29-2019.md) |  | I started giving out rewards for those that submit art, come check out #design
