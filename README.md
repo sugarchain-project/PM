@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Dec 4  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Dec 3  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-3-2019.md) |  | Plan to move 800K Sugar to Cold Storage
 Dec 2  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-2-2019.md) |  | New ATH, 100 days since the launch on 24th of August, it's been a very *eventful* couple of months, here's to what lies ahead
 Dec 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-1-2019.md) |  | 100 Sugar airdrop everyday leading up to New Year to select few in Discord and Telegram and Wechat groups, Webminer? 👀
