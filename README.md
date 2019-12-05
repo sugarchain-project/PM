@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Dec 5  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Dec 4  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-4-2019.md) |  | Translations for short Summary of Sugarchain in English, Chinese, Russian, Japanese, Korean
 Dec 3  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-3-2019.md) |  | Plan to move 800K Sugar to Cold Storage
 Dec 2  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-2-2019.md) |  | New ATH, 100 days since the launch on 24th of August, it's been a very *eventful* couple of months, here's to what lies ahead
