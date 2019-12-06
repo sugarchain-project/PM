@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Dec 6  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Dec 5  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-5-2019.md) | [The Sugar Chronicle #11](https://medium.com/@Sugarchain/the-sugar-chronicle-11-12-5-19-abe186ba9868?source=friends_link&sk=16506180b5a1f8cee0beb3be75d5ddbf) | I rewarded @SomeMoonFan#8494 25K for new Gui miner and a Faucet website is in the works
 Dec 4  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-4-2019.md) |  | Translations for short Summary of Sugarchain in English, Chinese, Russian, Japanese, Korean
 Dec 3  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-3-2019.md) |  | Plan to move 800K Sugar to Cold Storage
