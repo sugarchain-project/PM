@@ -1,1 +1,1 @@
-1. 
+1. Sugarchain<-->BitZeny(mainnet) AtomicSwap succeeded!!
