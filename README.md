@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 8  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Dec 8  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-8-2019.md) |  | 
 Dec 7  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-7-2019.md) |  | Sugarchain<-->BitZeny(mainnet) AtomicSwap succeeded!!
 Dec 6  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-6-2019.md) |  | Atomic Swap between SUGAR-ZNY in testing phase
 Dec 5  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-5-2019.md) | [The Sugar Chronicle #11](https://medium.com/@Sugarchain/the-sugar-chronicle-11-12-5-19-abe186ba9868?source=friends_link&sk=16506180b5a1f8cee0beb3be75d5ddbf) | I rewarded @SomeMoonFan#8494 25K for new Gui miner and a Faucet website is in the works
