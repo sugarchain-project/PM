@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 9  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Dec 9  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-9-2019.md) |  | 
 Dec 8  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-8-2019.md) |  | testing YespowerCashe, trying to make download speed even faster
 Dec 7  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-7-2019.md) |  | Sugarchain<-->BitZeny(mainnet) AtomicSwap succeeded!!
 Dec 6  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-6-2019.md) |  | Atomic Swap between SUGAR-ZNY in testing phase
