@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Dec 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Dec 10 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-10-2019.md) |  | Raku Ten from Telegram posted three articles on [Niubiquan](http://www.niubiquan.com/), about sugar introduction, atomic swap and coinpaprika
 Dec 9  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-9-2019.md) |  | New Chinese [Pool](http://pool.schoollt.cn/) 
 Dec 8  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-8-2019.md) |  | testing YespowerCashe, trying to make download speed even faster
