@@ -8,7 +8,8 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-14-2019.md) |  | 
+Dec 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Dec 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-14-2019.md) |  | A new bot able to scan and report scams 
 Dec 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-13-2019.md) |  | Has anyone seen a big whale?? He goes by the name `has` 👀
 Dec 12 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-12-2019.md) | [The Sugar Chronicle #12]() | Another day, another chance to mine some Sugar 🙂
 Dec 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-11-2019.md) |  | It was calculated that in the past two weeks, OTC trading volume has exceeded 10 million among Wechat users
