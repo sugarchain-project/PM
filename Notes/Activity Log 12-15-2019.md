@@ -1,1 +1,2 @@
-1. 
+1. Two new North American nodes
+
