@@ -11,7 +11,7 @@ Date | Topic | Notes | Medium | Tl;dr
 Dec 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-18-2019.md) |  | Plans were discussed on the development of light/mobile wallet
 Dec 17 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-17-2019.md) |  | Reducing the duplicated downloading of blockchain, we can make sync faster and reduce bandwidth + YespowerCaching
 Dec 16 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-16-2019.md) |  | We've been added to the Bravo reviewing platform
-Dec 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-15-2019.md) |  | Two new North American nodes
+Dec 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-15-2019.md) |  | Six new North American nodes
 Dec 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-14-2019.md) |  | A new bot able to scan and report scams 
 Dec 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-13-2019.md) |  | Has anyone seen a big whale?? He goes by the name `has` 👀
 Dec 12 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-12-2019.md) | [The Sugar Chronicle #12]() | Another day, another chance to mine some Sugar 🙂
