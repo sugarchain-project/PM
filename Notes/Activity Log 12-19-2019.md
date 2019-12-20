@@ -1,1 +1,1 @@
-1. 
+1. Android miner?👀
