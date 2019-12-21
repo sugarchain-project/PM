@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Dec 21 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | We have collected 210K Sugar in donations so far, Voting for two exchanges ATAIX and Qtrade has started
 Dec 20 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-20-2019.md) |  | Sugar Fundraiser to reward devs for mobile/light wallets, work has started on mobile wallet and web wallet
 Dec 19 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-19-2019.md) | [The Sugar Chronicle #13](https://medium.com/@Sugarchain/the-sugar-chronicle-13-12-19-19-3a3bd16a6eba)  | Android miner?👀
 Dec 18 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-18-2019.md) |  | Plans were discussed on the development of light/mobile wallet, New Mining Pool in USA [Loud Mining](https://sugar.loudmining.com/)
