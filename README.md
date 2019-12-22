@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Dec 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | [API](https://github.com/sugarchain-project/api-server) Server for Sugarchain, The original yespower author reviewed our [PR](https://github.com/sugarchain-project/sugarchain/pull/22)
 Dec 22 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-22-2019.md) |  | Yespower caching: 3x faster sync [video](https://www.youtube.com/watch?v=MojeGzy2NHU&feature=youtu.be), Sugarchain Community [Rules](https://github.com/sugarchain-project/doc/blob/master/community_rules.md)
 Dec 21 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-21-2019.md) |  | We have collected 210K Sugar in donations so far, Voting for two exchanges ATAIX and Qtrade has started
 Dec 20 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-20-2019.md) |  | Sugar Fundraiser to reward devs for mobile/light wallets, work has started on mobile wallet and web wallet
