@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Dec 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-24-2019.md) |  | 
 Dec 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-23-2019.md) |  | [API](https://github.com/sugarchain-project/api-server) Server for Sugarchain, The original yespower author reviewed our [PR](https://github.com/sugarchain-project/sugarchain/pull/22), Yesterday，Chinese Wechat group，OTC price is 10k sugar / 8.5 usdt, Over 10 sat more than 1 million Sugar transactions, @Rakutens#4268 sent 42,350 Doge to pay the vps fee for the Web/Mobile wallets for the next six months, added to a DEX? 👀
 Dec 22 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-22-2019.md) |  | Yespower caching: 3x faster sync [video](https://www.youtube.com/watch?v=MojeGzy2NHU&feature=youtu.be), Sugarchain Community [Rules](https://github.com/sugarchain-project/doc/blob/master/community_rules.md)
 Dec 21 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-21-2019.md) |  | We have collected 210K Sugar in donations so far, Voting for two exchanges ATAIX and Qtrade has started
