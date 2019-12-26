@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() | [The Sugar Chronicle #14]() | 
+Dec 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-26-2019.md) | [The Sugar Chronicle #14]() | 
 Dec 25 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-25-2019.md) |  | Video?👀
 Dec 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-24-2019.md) |  | Next Yumekawa release code name: Moonlight: IBD & Sync significant faster, Android/Web Wallet release, Yespower 1.0.1+cache major update, In Sugarchain Wechat group, 1 million Sugar was sold for 1071.42 usdt in OTC trade
 Dec 23 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-23-2019.md) |  | [API](https://github.com/sugarchain-project/api-server) Server for Sugarchain, The original yespower author reviewed our [PR](https://github.com/sugarchain-project/sugarchain/pull/22), Yesterday，Chinese Wechat group，OTC price is 10k sugar / 8.5 usdt, Over 10 sat more than 1 million Sugar transactions, @Rakutens#4268 sent 42,350 Doge to pay the vps fee for the Web/Mobile wallets for the next six months, added to a DEX? 👀
