@@ -8,7 +8,8 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-27-2019.md) |  | 
+Dec 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Dec 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-27-2019.md) |  | New hashrate ATH, Two new Chinese pools: [Smartpool](http://139.129.229.26/), [Anomp](http://anomp.com:8090/)
 Dec 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-26-2019.md) | [The Sugar Chronicle #14](https://medium.com/@Sugarchain/the-sugar-chronicle-14-12-26-19-27c768914627) | New Miner?
 Dec 25 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-25-2019.md) |  | Video?👀
 Dec 24 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-24-2019.md) |  | Next Yumekawa release code name: Moonlight: IBD & Sync significant faster, Android/Web Wallet release, Yespower 1.0.1+cache major update, In Sugarchain Wechat group, 1 million Sugar was sold for 1071.42 usdt in OTC trade
