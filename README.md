@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-28-2019.md) |  | 
+Dec 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-28-2019.md) |  | A reminder that Sugarchain team will NEVER ask you to send cryptocurrencies, funds, private keys, personal information and etc.
 Dec 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-27-2019.md) |  | New hashrate ATH, Two new Chinese pools: [Smartpool](http://139.129.229.26/), [Anomp](http://anomp.com:8090/)
 Dec 26 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-26-2019.md) | [The Sugar Chronicle #14](https://medium.com/@Sugarchain/the-sugar-chronicle-14-12-26-19-27c768914627) | New Miner?
 Dec 25 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-25-2019.md) |  | Video?👀
