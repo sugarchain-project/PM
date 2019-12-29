@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Dec 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-30-2019.md) |  | 
 Dec 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-29-2019.md) |  | New🌟[Explorer](https://volbil.github.io/sugar/#/), Thanks @volbil#8559, New🌟[API](https://api.sugarchain.org/), This is backend for Android/Web Wallet. For Sugar Devs❤️
 Dec 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-28-2019.md) |  | A reminder that Sugarchain team will NEVER ask you to send cryptocurrencies, funds, private keys, personal information and etc.
 Dec 27 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-27-2019.md) |  | New hashrate ATH, Two new Chinese pools: [Smartpool](http://139.129.229.26/), [Anomp](http://anomp.com:8090/)
