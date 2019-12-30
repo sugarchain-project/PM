@@ -8,7 +8,7 @@ A list of activities completed for the day.
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Dec 31 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Dec 31 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-31-2019.md) |  | 
 Dec 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-30-2019.md) |  | **HIGHLY** experimental Sugar [web wallet](https://sugar.wtf/wallet/#/)
 Dec 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-29-2019.md) |  | New🌟[Explorer](https://volbil.github.io/sugar/#/), Thanks @volbil#8559, New🌟[API](https://api.sugarchain.org/), This is backend for Android/Web Wallet. For Sugar Devs❤️, New nodes in Amsterdam, Franfurt, Paris, Silicon Valley and Singapore 
 Dec 28 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-28-2019.md) |  | A reminder that Sugarchain team will NEVER ask you to send cryptocurrencies, funds, private keys, personal information and etc.
