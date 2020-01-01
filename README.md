@@ -5,10 +5,7 @@
 ## Activity Log
 A list of activities completed for the day.
 
-### 2020
-Date | Topic | Notes | Medium | Tl;dr
-|:---|:---|---|:---|:---|
-Jan 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-1-2020.md) |  | 
+
 ### 2019
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
