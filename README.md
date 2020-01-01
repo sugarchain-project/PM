@@ -5,10 +5,13 @@
 ## Activity Log
 A list of activities completed for the day.
 
-### 2019
+### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Jan 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-1-2020.md) |  | 
+### 2019
+Date | Topic | Notes | Medium | Tl;dr
+|:---|:---|---|:---|:---|
 Dec 31 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-31-2019.md) |  | [First look](https://twitter.com/Xperia_Build_Y/status/1211930839937716224?s=20) at atomicswap-qt developed on Ubuntu
 Dec 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-30-2019.md) |  | [web wallet](https://sugar.wtf/wallet/#/) **Released**, I rewarded Volbil 150K for the [web wallet](https://sugar.wtf/wallet/#/)  
 Dec 29 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-29-2019.md) |  | New🌟[Explorer](https://volbil.github.io/sugar/#/), Thanks @volbil#8559, New🌟[API](https://api.sugarchain.org/), This is backend for Android/Web Wallet. For Sugar Devs❤️, New nodes in Amsterdam, Franfurt, Paris, Silicon Valley and Singapore 
