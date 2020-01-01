@@ -6,7 +6,7 @@
 A list of activities completed for the day.
 
 
-### 2019 [2020]()
+### 2019 [2020](https://github.com/sugarchain-project/PM/blob/master/README2020.md)
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Dec-31-19 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-31-2019.md) |  | [First look](https://twitter.com/Xperia_Build_Y/status/1211930839937716224?s=20) at atomicswap-qt developed on Ubuntu
