@@ -9,6 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Jan 4  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Jan 3  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-3-2020.md) |  | New Chinese pool: [Dx Pool](https://www.dxpool.com/)
 Jan 2  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-2-2020.md) | [The Sugar Chronicle #14]() | Introduced in China's [blockchain information platform](https://www.niubiquan.com/article/1887)
 Jan 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-1-2020.md) |  | Android Wallet Comming Soon, I rewarded heliohash 25K for the awesome artwork he made made for our Android Wallet. Feel free to donate him **sugar1q4tvu3h8hmr3fc8ahmf7plfvpfdstp85jpk2za3**
