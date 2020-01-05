@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 6  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Jan 6  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-6-2020.md) |  | 
 Jan 5  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-5-2020.md) |  | Wallet [updated](https://github.com/sugarchain-project/web-wallet/pull/3) to [Version 0.3](https://sugar.wtf/wallet/#/)
 Jan 4  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-4-2020.md) |  | New French Pool: [root](http://root-pool.com/), Youtube [Video](https://youtu.be/vgNufKBR2g4) Sugarchain Mining by @joe_land1#8756 
 Jan 3  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-3-2020.md) |  | New Chinese pool: [Dx Pool](https://www.dxpool.com/), Sugarchain [Android Miner](https://github.com/Nugetzrul3/Sugarchain-Android-Miner/releases/tag/v0.1.4-beta) V0.1.4-beta, Sugarchain is now listed on [Crypto Discords](https://nlccapital.finance.blog/)
