@@ -1,2 +1,3 @@
-1. New Hashrate ATH
+1. New Hashrate ATH (4 MH/s)
+
 
