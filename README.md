@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 9  | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Jan 9  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-9-2020.md) |  | 
 Jan 8  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-8-2020.md) |  | Web wallet will be translations for Chinese, Russian, Japanese, Korean, Indonesian, Spanish
 Jan 7  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-7-2020.md) |  | New Hashrate ATH (4 MH/s) 
 Jan 6  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-6-2020.md) |  | I rewarded @Sandelinos#2168 25K Sugar for his USB Live Miner [video](https://www.youtube.com/watch?v=2XavHsBIsP4&feature=youtu.be) 
