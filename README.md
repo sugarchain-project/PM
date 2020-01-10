@@ -9,6 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Jan 10 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
 Jan 9  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-9-2020.md) | [The Sugar Chronicle #16]() | 400K Sugar auctioned at 25 sat by Wechat users
 Jan 8  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-8-2020.md) |  | Web wallet now has translations for Chinese, Russian, Japanese, Korean, Indonesian, Spanish
 Jan 7  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-7-2020.md) |  | New Hashrate ATH (4 MH/s) 
