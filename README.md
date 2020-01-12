@@ -9,7 +9,9 @@ A list of activities completed for the day.
 ### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-11-2020.md) |  | 
+Jan 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Jan 12 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | We are testing a new platform as our replacement for Discord
+Jan 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-11-2020.md) |  | Sugarchain has since broken through a 0.2 BTC sell wall and has hit 30 sat
 Jan 10 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-10-2020.md) |  | What Happened To Discord [article](https://medium.com/@Sugarchain/what-happened-to-discord-bd12feabf8e3?source=friends_link&sk=41c16e329d2293b71d4645f7d2e2ab4b)
 Jan 9  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-9-2020.md) | [The Sugar Chronicle #16]() | 500K Sugar auctioned at 25.5 sat by Wechat users
 Jan 8  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-8-2020.md) |  | Web wallet now has translations for Chinese, Russian, Japanese, Korean, Indonesian, Spanish
