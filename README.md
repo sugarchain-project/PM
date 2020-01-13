@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes]() |  | 
+Jan 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-14-2020.md) |  | 
 Jan 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-13-2020.md) |  | [Translations](https://github.com/sugarchain-project/translation_android_wallet) for mobile wallet
 Jan 12 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-12-2020.md) |  | We are testing a new platform as our replacement for Discord
 Jan 11 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-11-2020.md) |  | Sugarchain has since broken through a 0.2 BTC sell wall and has hit 30 sat
