@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Topic | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-15-2020.md) |  | 
+Jan 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-15-2020.md) |  | We are taking meassures to ensure that we can effectively combat any spam/scam messages on Telegram
 Jan 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-14-2020.md) |  | Atomic Swap coplete between 1 SUGAR and 1 MBC
 Jan 13 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-13-2020.md) |  | [Translations](https://github.com/sugarchain-project/translation_android_wallet) for mobile wallet
 Jan 12 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-12-2020.md) |  | We are testing a new platform as our replacement for Discord
