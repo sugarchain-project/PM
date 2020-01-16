@@ -7,7 +7,7 @@ A list of activities completed for the day.
 
 
 ### 2020
-Date | Topic | Notes | Medium | Tl;dr
+Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Jan 15 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-15-2020.md) | [The Sugar Chronicle #17]() | We are taking meassures to ensure that we can effectively combat any spam/scam messages on Telegram
 Jan 14 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-14-2020.md) |  | Atomic Swap coplete between 1 SUGAR and 1 MBC
@@ -26,7 +26,7 @@ Jan 2  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/suga
 Jan 1  | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-1-2020.md) |  | Android Wallet Comming Soon, I rewarded heliohash 25K for the awesome [artwork](https://twitter.com/sugarchain_dev/status/1214181023627431936) he made made for our Android Wallet. Feel free to donate him **sugar1q4tvu3h8hmr3fc8ahmf7plfvpfdstp85jpk2za3**
 
 ### 2019 
-Date | Topic | Notes | Medium | Tl;dr
+Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Dec 31 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-31-2019.md) |  | [First look](https://twitter.com/Xperia_Build_Y/status/1211930839937716224?s=20) at atomicswap-qt developed on Ubuntu
 Dec 30 | [Discord](https://discord.gg/xKzCf9f) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%2012-30-2019.md) |  | [web wallet](https://sugar.wtf/wallet/#/) **Released**, I rewarded Volbil 150K for the [web wallet](https://sugar.wtf/wallet/#/)  
