@@ -10,7 +10,7 @@ A list of activities completed for the day.
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Jan 17 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
-Jan 16 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | Sugarchain Block Reward Half [Countdown!](https://nugetzrul3.github.io/) created by Salmaan1234 and with help from Volbil
+Jan 16 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-16-2020.md) |  | Sugarchain Block Reward Half [Countdown!](https://nugetzrul3.github.io/) created by Salmaan1234 and with help from Volbil
 Jan 15 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-15-2020.md) | [The Sugar Chronicle #17]() | We are taking meassures to ensure that we can effectively combat any spam/scam messages on Telegram
 Jan 14 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-14-2020.md) |  | Atomic Swap coplete between 1 SUGAR and 1 MBC
 Jan 13 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-13-2020.md) |  | [Translations](https://github.com/sugarchain-project/translation_android_wallet) for mobile wallet
