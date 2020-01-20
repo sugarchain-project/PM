@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 20 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Jan 20 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-20-2020.md) |  | 
 Jan 19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-19-2020.md) |  | Over the past 4 days, 4.9 million Sugar was traded via OTC or auction
 Jan 18 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-18-2020.md) |  | Tipbot (Discord) Refund: Funds are SAFU 👍 Just you need exact same account as before. Joe (Tipbot Owner) will help you [Discord](https://discordapp.com/invite/xzeP999)😉
 Jan 17 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-17-2020.md) |  | New exchange has listed Sugarchain
