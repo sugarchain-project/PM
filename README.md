@@ -9,10 +9,11 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-19-2020.md) |  | 
+Jan 20 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Jan 19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-19-2020.md) |  | Over the past 4 days, 4.9 million Sugar was traded via OTC or auction
 Jan 18 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-18-2020.md) |  | Tipbot (Discord) Refund: Funds are SAFU 👍 Just you need exact same account as before. Joe (Tipbot Owner) will help you [Discord](https://discordapp.com/invite/xzeP999)😉
 Jan 17 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-17-2020.md) |  | New exchange has listed Sugarchain
-Jan 16 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-16-2020.md) | [The Sugar Chronicle #17](https://medium.com/@Sugarchain/the-sugar-chronicle-17-1-16-20-cfebfb600f2b?source=friends_link&sk=7033cbca98ddae2cefaf066c6ddd14a8) | Sugarchain Block Reward Half [Countdown!](https://nugetzrul3.github.io/) created by Salmaan1234 and with help from Volbil
+Jan 16 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/P4.9M/blob/master/Notes/Activity%20Log%201-16-2020.md) | [The Sugar Chronicle #17](https://medium.com/@Sugarchain/the-sugar-chronicle-17-1-16-20-cfebfb600f2b?source=friends_link&sk=7033cbca98ddae2cefaf066c6ddd14a8) | Sugarchain Block Reward Half [Countdown!](https://nugetzrul3.github.io/) created by Salmaan1234 and with help from Volbil
 Jan 15 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-15-2020.md) |  | We are taking meassures to ensure that we can effectively combat any spam/scam messages on Telegram
 Jan 14 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-14-2020.md) |  | Atomic Swap coplete between 1 SUGAR and 1 MBC
 Jan 13 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-13-2020.md) |  | [Translations](https://github.com/sugarchain-project/translation_android_wallet) for mobile wallet
