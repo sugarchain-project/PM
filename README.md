@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 22 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Jan 22 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-22-2020.md) |  | 
 Jan 21 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-21-2020.md) |  | New [Pool](https://scryptpool.xyz/)
 Jan 20 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-20-2020.md) |  | New [Explorer](https://sugarchain.org/explorer/#/) Deployed, The fastest explorer ever. Thanks Volbil
 Jan 19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-19-2020.md) |  | Over the past 4 days, 4.9 million Sugar was traded via OTC or auction
