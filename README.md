@@ -9,7 +9,8 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 23 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-23-2020.md) | [The Sugar Chronicle #18]() | 
+Jan 24 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Jan 23 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-23-2020.md) | [The Sugar Chronicle #18]() | web wallet has been updated to version 0.5. Now it supports QR code scanning as an alternative way to input receiver address
 Jan 22 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-22-2020.md) |  | Bitcoin Schnorr [PR](https://github.com/bitcoin/bitcoin/pull/17977), this is significant because Schnorr Signatures is a big thing on the Sugarchain roadmap
 Jan 21 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-21-2020.md) |  | New [Pool](https://scryptpool.xyz/)
 Jan 20 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-20-2020.md) |  | New [Explorer](https://sugarchain.org/explorer/#/) Deployed, The fastest explorer ever. Thanks Volbil
