@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 26 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Jan 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-26-2020.md) |  | 
 Jan 25 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-25-2020.md) |  | RocketChat: A New Community Platform is Ready. We made an alternative to Discord! Welcome! Thanks Volbil
 Jan 24 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-24-2020.md) |  | Mobile Wallet 80% complete
 Jan 23 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-23-2020.md) | [The Sugar Chronicle #18](https://medium.com/@Sugarchain/the-sugar-chronicle-18-1-23-20-aafccefea1ff?source=friends_link&sk=9a4d531f8ff00c6f7fb9b0960cd0964f) | web wallet has been updated to version 0.5. Now it supports QR code scanning as an alternative way to input receiver address
