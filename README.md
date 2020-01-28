@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 28 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Jan 28 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-28-2020.md) |  | 
 Jan 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-27-2020.md) |  | 
 Jan 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-26-2020.md) |  | A 0.3 BTC Sell wall for 1.2 million Sugar was bought
 Jan 25 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-25-2020.md) |  | [RocketChat](https://t.co/NBABVpIXGy): A New Community Platform is Ready. We made an alternative to Discord! Welcome! Thanks Volbil
