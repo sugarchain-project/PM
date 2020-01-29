@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 29 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-29-2020.md) |  | 
+Jan 29 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-29-2020.md) |  | New pools [Mining Madness](https://miningmadness.com/) and [NoSuch Pool](https://nosuchpool.cloud/) coming soon
 Jan 28 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-28-2020.md) |  | [Team](https://github.com/sugarchain-project/team-contacts/blob/master/README.md) link has been added to the [Website](https://sugarchain.org/)
 Jan 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-27-2020.md) |  | New language channels such as Chinese, Indonesian, Japanese, Korean and Russian have been added to our new [RocketChat](https://chat.sugar.wtf/) Community Platform
 Jan 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-26-2020.md) |  | A 0.3 BTC Sell wall for 1.2 million Sugar was bought
