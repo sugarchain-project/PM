@@ -11,7 +11,7 @@ Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Jan 29 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-29-2020.md) |  |
 Jan 28 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-28-2020.md) |  | 
-Jan 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-27-2020.md) |  | New language channels such as Chinese, Indonesian, Japanese, Korean and Russian have been added to our new RocketChat Community Platform
+Jan 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-27-2020.md) |  | New language channels such as Chinese, Indonesian, Japanese, Korean and Russian have been added to our new [RocketChat](https://chat.sugar.wtf/) Community Platform
 Jan 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-26-2020.md) |  | A 0.3 BTC Sell wall for 1.2 million Sugar was bought
 Jan 25 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-25-2020.md) |  | [RocketChat](https://t.co/NBABVpIXGy): A New Community Platform is Ready. We made an alternative to Discord! Welcome! Thanks Volbil
 Jan 24 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-24-2020.md) |  | Mobile Wallet 80% complete
