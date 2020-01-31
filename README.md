@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Jan 30 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-30-2020.md) | [The Sugar Chronicle #18]() | Short Term Roadmap 2020 Q1: Android Wallet Release on Playstore, Listings on some Chinese exchanges, Yumekawa 0.20, Schnorr+Taproot Soft Fork(at least 75% agreement), IOS Wallet Release on Applestore(DUNS required)
+Jan 30 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-30-2020.md) | [The Sugar Chronicle #19]() | Short Term Roadmap 2020 Q1: Android Wallet Release on Playstore, Listings on some Chinese exchanges, Yumekawa 0.20, Schnorr+Taproot Soft Fork(at least 75% agreement), IOS Wallet Release on Applestore(DUNS required)
 Jan 29 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-29-2020.md) |  | New pools [Mining Madness](https://miningmadness.com/) and [NoSuch Pool](https://nosuchpool.cloud/) coming soon
 Jan 28 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-28-2020.md) |  | [Team](https://github.com/sugarchain-project/team-contacts/blob/master/README.md) link has been added to the [Website](https://sugarchain.org/)
 Jan 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-27-2020.md) |  | New language channels such as Chinese, Indonesian, Japanese, Korean and Russian have been added to our new [RocketChat](https://chat.sugar.wtf/) Community Platform
