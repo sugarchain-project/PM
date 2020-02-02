@@ -11,7 +11,7 @@ Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Feb  2 | [Telegram](https://t.me/sugarchain) | [Notes]() |  |
 Feb  1 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | [Walpurgisnacht](https://gist.github.com/decryp2kanon/1f8f56b5b28e5aa5895d2bf75d335603)
-Jan 31 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | Working on Translations
+Jan 31 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-31-2020.md) |  | Working on Translations
 Jan 30 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-30-2020.md) | [The Sugar Chronicle #19](https://medium.com/@Sugarchain/the-sugar-chronicle-19-1-30-20-139aedac97c0?source=friends_link&sk=d7d509354bd823b71ab6ecbcdd2ff2af) | Short Term Roadmap 2020 Q1: Android Wallet Release on Playstore, Listings on some Chinese exchanges, Yumekawa 0.20, Schnorr+Taproot Soft Fork(at least 75% agreement), IOS Wallet Release on Applestore(DUNS required)
 Jan 29 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-29-2020.md) |  | New pools [Mining Madness](https://miningmadness.com/) and [NoSuch Pool](https://nosuchpool.cloud/) coming soon
 Jan 28 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-28-2020.md) |  | [Team](https://github.com/sugarchain-project/team-contacts/blob/master/README.md) link has been added to the [Website](https://sugarchain.org/)
