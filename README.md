@@ -9,7 +9,8 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Feb  2 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-2-2020.md) |  |
+Feb  3 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Feb  2 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-2-2020.md) |  | Bootstrap for Sugarchain at Height 2601001 [Released](https://github.com/sugarchain-project/bootstrap/releases/tag/max_height%3D2601001) 
 Feb  1 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-1-2020.md) |  | [Walpurgisnacht](https://gist.github.com/decryp2kanon/1f8f56b5b28e5aa5895d2bf75d335603)
 Jan 31 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-31-2020.md) |  | Working on Translations
 Jan 30 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%201-30-2020.md) | [The Sugar Chronicle #19](https://medium.com/@Sugarchain/the-sugar-chronicle-19-1-30-20-139aedac97c0?source=friends_link&sk=d7d509354bd823b71ab6ecbcdd2ff2af) | Short Term Roadmap 2020 Q1: Android Wallet Release on Playstore, Listings on some Chinese exchanges, Yumekawa 0.20, Schnorr+Taproot Soft Fork(at least 75% agreement), IOS Wallet Release on Applestore(DUNS required)
