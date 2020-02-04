@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Feb  4 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Feb  4 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-4-2020.md) |  | 
 Feb  3 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-3-2020.md) |  | 
 Feb  2 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-2-2020.md) |  | Bootstrap for Sugarchain at Height 2601001 [Released](https://github.com/sugarchain-project/bootstrap/releases/tag/max_height%3D2601001) 
 Feb  1 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-1-2020.md) |  | [Walpurgisnacht](https://gist.github.com/decryp2kanon/1f8f56b5b28e5aa5895d2bf75d335603)
