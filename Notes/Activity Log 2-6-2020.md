@@ -1,1 +1,1 @@
-1. 
+1. DNS seeder updated 👀
