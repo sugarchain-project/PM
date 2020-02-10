@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Feb 10 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Feb 10 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-10-2020.md) |  | 
 Feb  9 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-9-2020.md) |  | 
 Feb  8 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-8-2020.md) |  | Added minor changes to mobile wallet
 Feb  7 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-7-2020.md) |  | New Pool [MiningMadness](https://www.miningmadness.com/)
