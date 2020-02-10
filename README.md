@@ -10,7 +10,7 @@ A list of activities completed for the day.
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Feb 10 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-10-2020.md) |  | 
-Feb  9 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-9-2020.md) |  | 
+Feb  9 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-9-2020.md) |  | Yumekawa 3rd Release Candidate [v0.16.3.27rc3-2a0ecad](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.27rc3-2a0ecad) This version is just a beta
 Feb  8 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-8-2020.md) |  | Added minor changes to mobile wallet
 Feb  7 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-7-2020.md) |  | New Pool [MiningMadness](https://www.miningmadness.com/)
 Feb  6 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-6-2020.md) | [The Sugar Chronicle #20](https://medium.com/@Sugarchain/the-sugar-chronicle-20-2-6-20-555b129a41b7?source=friends_link&sk=d7cb22fd0172e82e556c92ccf1a45772) | [DNS seeder](https://github.com/sugarchain-project/sugarchain-seeder) updated 👀
