@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Feb 13 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-13-2020.md) |  |
+Feb 13 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-13-2020.md) |  |Block Height [3,000,000](https://1explorer.sugarchain.org/block/75a9d5cf252dd46d13e109c37787b7af28619380423f1b5066a130c117fd98b8) 🎉🌟
 Feb 12 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-12-2020.md) |  | Working on much faster IBD (download) for the wallet
 Feb 11 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-11-2020.md) |  | Listing Announcemnet, Sugarchain has been listed on [Skyio](https://www.sky.io/), Trading pair: [Sugar-USDT](https://www.sky.io/exchange/SUGAR_USDT)
 Feb 10 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-10-2020.md) |  | For better communication with Chinese users, we have registered a [Weibo account](https://weibo.com/u/7373018420)
