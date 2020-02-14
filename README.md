@@ -10,7 +10,7 @@ A list of activities completed for the day.
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Feb 13 | [Telegram](https://t.me/sugarchain) | [Notes]() |  |
-Feb 12 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Feb 12 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-12-2020.md) |  | 
 Feb 11 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-11-2020.md) |  | Listing Announcemnet, Sugarchain has been listed on [Skyio](https://www.sky.io/), Trading pair: [Sugar-USDT](https://www.sky.io/exchange/SUGAR_USDT)
 Feb 10 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-10-2020.md) |  | For better communication with Chinese users, we have registered a [Weibo account](https://weibo.com/u/7373018420)
 Feb  9 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-9-2020.md) |  | Yumekawa 3rd Release Candidate [v0.16.3.27rc3-2a0ecad](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.27rc3-2a0ecad) This version is just a beta
