@@ -9,6 +9,9 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Feb 16 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | Developing Atomic Swap Plugin for Electrum
+Feb 15 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 1:40 faster IBD (Initial Blockchain Download) than RC3
+Feb 14 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | Android Wallet v1.0 [Released](https://github.com/sugarchain-project/android_wallet_sugarchain/releases/tag/v1.0) Google Play Store coming soon🌟
 Feb 13 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-13-2020.md) | [The Sugar Chronicle #21](https://medium.com/@Sugarchain/the-sugar-chronicle-21-2-13-20-bdb82b6dcfd8?source=friends_link&sk=c7666177371c8c712789dc46f29d79b0) |Block Height [3,000,000](https://1explorer.sugarchain.org/block/75a9d5cf252dd46d13e109c37787b7af28619380423f1b5066a130c117fd98b8) 🎉🌟
 Feb 12 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-12-2020.md) |  | Working on much faster IBD (download) for the wallet
 Feb 11 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-11-2020.md) |  | Listing Announcemnet, Sugarchain has been listed on [Skyio](https://www.sky.io/), Trading pair: [Sugar-USDT](https://www.sky.io/exchange/SUGAR_USDT)
