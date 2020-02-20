@@ -9,6 +9,10 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Feb 20 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #22]() | 
+Feb 19 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Feb 18 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Feb 17 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
 Feb 16 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-16-2020.md) |  | Developing Atomic Swap Plugin for Electrum
 Feb 15 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-15-2020.md) |  | 1:40 faster IBD (Initial Blockchain Download) than RC3
 Feb 14 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-14-2020.md) |  | Android Wallet v1.0 [Released](https://github.com/sugarchain-project/android_wallet_sugarchain/releases/tag/v1.0) Google Play Store coming soon🌟
