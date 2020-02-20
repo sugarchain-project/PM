@@ -11,7 +11,7 @@ Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
 Feb 20 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #22]() | 
 Feb 19 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
-Feb 18 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 
+Feb 18 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | Please check if you are on Windows 10, How to fix: [Windows 10 Time Bug](https://github.com/sugarchain-project/doc/blob/master/fix_win10_time_bug.md)
 Feb 17 | [Telegram](https://t.me/sugarchain) | [Notes]() |  | 唐伯虎 donated us [0.07 BTC](https://blockstream.info/tx/05d0bb29ed742303e798455b9c9418b1ecfc1d986db27842970a7acf79d6cee9) to our development fund, Thanks so much !
 Feb 16 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-16-2020.md) |  | Developing Atomic Swap Plugin for Electrum
 Feb 15 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-15-2020.md) |  | 1:40 faster IBD (Initial Blockchain Download) than RC3
