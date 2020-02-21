@@ -1,1 +1,1 @@
-1. 
+1. Yumekawa 4th Release Candidate (BETA) [v0.16.3.28rc4-d362919](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.28rc4-d362919) Recommendation: - Improved Yespower implementation - Sync & IBD speed at least 290% faster - Significantly reduced data traffic during IBD at least 1200% less - Enhanced chain security
