@@ -9,13 +9,13 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Feb 27 | [Telegram](https://t.me/sugarchain) | [Notes]() | |
-Feb 26 | [Telegram](https://t.me/sugarchain) | [Notes]() | |
-Feb 25 | [Telegram](https://t.me/sugarchain) | [Notes]() | |
-Feb 24 | [Telegram](https://t.me/sugarchain) | [Notes]() | |
-Feb 23 | [Telegram](https://t.me/sugarchain) | [Notes]() | |
-Feb 22 | [Telegram](https://t.me/sugarchain) | [Notes]() | |
-Feb 21 | [Telegram](https://t.me/sugarchain) | [Notes]() | | 
+Feb 27 | [Telegram](https://t.me/sugarchain) | [Notes]() |[The Sugar Chronicle #23]() |
+Feb 26 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Sugarchain [Wiki](https://sugarchain.org/sugarchain-wiki/#/) page
+Feb 25 | [Telegram](https://t.me/sugarchain) | [Notes]() | | New Mining Pool [scryptpool](http://scryptpool.xyz/)
+Feb 24 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Yumekawa 5th Release Candidate (BETA) [v0.16.3.29rc5-071adf9](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.29rc5-071adf9)
+Feb 23 | [Telegram](https://t.me/sugarchain) | [Notes]() | | New Mining Pool [customspeed](http://pool.customspeed.nl/)
+Feb 22 | [Telegram](https://t.me/sugarchain) | [Notes]() | | [SUGAR Mining on VPS](https://youtu.be/Vkyo6dLHBoo)
+Feb 21 | [Telegram](https://t.me/sugarchain) | [Notes]() | | New Mining Pool [cpu-pool](http://cpu-pool.com/)
 Feb 20 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-20-2020.md) | [The Sugar Chronicle #22](https://medium.com/@Sugarchain/the-sugar-chronicle-22-2-20-20-ca2ae651f77?source=friends_link&sk=24cc62e72a9b5c8e70b4cd7460286179) | Miningpool Promotion: [nosuchpool](https://nosuchpool.cloud/) Sugarchain Fee is 0 % (zero) at least for a month! , YIIMP for Sugarchain released: Good News! [baz](https://github.com/barrystyle) released [YIIMP for Sugarchain](https://github.com/barrystyle/yiimp-sugarchain) as open source and he was rewarded 25K Sugar
 Feb 19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-19-2020.md) |  | Yumekawa 4th Release Candidate (BETA) [v0.16.3.28rc4-d362919](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.28rc4-d362919) Recommendation: - Improved Yespower implementation - Sync & IBD speed at least 290% faster - Significantly reduced data traffic during IBD at least 1200% less - Enhanced chain security
 Feb 18 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-18-2020.md) |  | Please check if you are on Windows 10, How to fix: [Windows 10 Time Bug](https://github.com/sugarchain-project/doc/blob/master/fix_win10_time_bug.md)
