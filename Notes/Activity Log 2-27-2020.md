@@ -1,1 +1,1 @@
-1. 
+1. Looking at the future of Sugarchain from the history of Bitcoin development [article](https://zhuanlan.zhihu.com/p/109555508?utm_source=wechat_session&utm_medium=social&utm_oi=1074587515461185536&from=groupmessage) in Chinese
