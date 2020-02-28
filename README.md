@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Feb 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-27-2020.md) |[The Sugar Chronicle #23]() |
+Feb 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-27-2020.md) |[The Sugar Chronicle #23](https://medium.com/@Sugarchain/the-sugar-chronicle-23-2-27-20-3e36bcf5298f?source=friends_link&sk=f9e6919fcc6af553daa4730a1e0d6142) | Looking at the future of Sugarchain from the history of Bitcoin development [article](https://zhuanlan.zhihu.com/p/109555508?utm_source=wechat_session&utm_medium=social&utm_oi=1074587515461185536&from=groupmessage) in Chinese
 Feb 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-26-2020.md) | | Sugarchain [Wiki](https://sugarchain.org/sugarchain-wiki/#/) page
 Feb 25 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-25-2020.md) | | New Mining Pool [scryptpool](http://scryptpool.xyz/)
 Feb 24 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%202-24-2020.md) | | Yumekawa 5th Release Candidate (BETA) [v0.16.3.29rc5-071adf9](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.29rc5-071adf9)
