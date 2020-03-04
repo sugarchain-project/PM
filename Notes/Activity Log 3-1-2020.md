@@ -1,1 +1,1 @@
-1. 
+1. Yumekawa Final Release (Stable) [v0.16.3.30-moonlight](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.30-moonlight) - Sync & IBD speed 290% faster - Significantly reduced data traffic during Sync & IBD 91% less - Improved YespowerSugar implementation - Enhanced chain security
