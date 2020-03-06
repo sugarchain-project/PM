@@ -9,6 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Mar  5 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-5-2020.md) | [The Sugar Chronicle #24]() | We need more open nodes for better network. Please consider running a Sugarchain [Fullnode](https://github.com/sugarchain-project/doc/blob/master/running_node.md)
 Mar  4 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-4-2020.md) |  | Sugarchain profit calculator is coming ! for [DxPool](https://www.dxpool.com/)
 Mar  3 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-3-2020.md) |  | Sugarchain [Dockerfile](https://github.com/sugarchain-project/docker/tree/master/sugarchain)
 Mar  2 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-2-2020.md) |  | Vardiff added so everyone can mine Sugarchain no matter the CPU at [scryptpool.xyz](https://t.co/0g5Cg8EIYs?amp=1)
