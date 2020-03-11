@@ -1,1 +1,1 @@
-1. 
+1. 17% faster Sugarchain cpuminer [(ALPHA)](https://github.com/decryp2kanon/sugarmaker) Network Status Report: Date: 2020-3-09 -Hashrate: 2.3 MH/s -Nonce Distribution: OK -Blocktime: 5 seconds -Blockchain Size: 2.0 GB
