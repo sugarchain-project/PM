@@ -1,0 +1,1 @@
+1. [2pool](https://2pool.sugarchain.org/) and [customspeed.nl](http://pool.customspeed.nl/) have upgraded the wallet to [0.16.3.30](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.30-moonlight) release
