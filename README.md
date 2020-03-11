@@ -9,6 +9,10 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Mar  9 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-9-2020.md) |  | 17% faster Sugarchain cpuminer [(ALPHA)](https://github.com/decryp2kanon/sugarmaker) Network Status Report: Date: 2020-3-09 -Hashrate: 2.3 MH/s -Nonce Distribution: OK -Blocktime: 5 seconds -Blockchain Size: 2.0 GB
+Mar  8 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-8-2020.md) |  | Low difficulty is a great time to solo mine blocks [Guide](https://forum.sugarchain.org/t/solo)
+Mar  7 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-7-2020.md) |  | Hope to have taproot in Yumekawa 0.20 or 21, this upgrade will need at least 75% agreement for a soft fork
+Mar  6 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-6-2020.md) |  | [2pool](https://2pool.sugarchain.org/) and [customspeed.nl](http://pool.customspeed.nl/) have upgraded the wallet to [0.16.3.30](https://github.com/sugarchain-project/sugarchain/releases/tag/v0.16.3.30-moonlight) release
 Mar  5 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-5-2020.md) | [The Sugar Chronicle #24]() | We need more open nodes for better network. Please consider running a Sugarchain [Fullnode](https://github.com/sugarchain-project/doc/blob/master/running_node.md)
 Mar  4 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-4-2020.md) |  | Sugarchain profit calculator is coming ! for [DxPool](https://www.dxpool.com/)
 Mar  3 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-3-2020.md) |  | Sugarchain [Dockerfile](https://github.com/sugarchain-project/docker/tree/master/sugarchain)
