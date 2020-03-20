@@ -9,6 +9,12 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Mar 19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-19-2020.md) | [The Sugar Chronicle #26]() | Block time still 5 seconds
+Mar 18 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-18-2020.md) |  | Another day of a 5 second block time another day for a chance to solo mine blocks
+Mar 17 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-17-2020.md) |  | Low Difficulty is a great time to solo mine
+Mar 16 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-16-2020.md) |  | Sugarmaker v3 [released](https://t.co/7YRYBOTQkA?amp=1) - Supporting all platforms include Smartphone and RaspberryPi - Better performance
+Mar 15 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-15-2020.md) |  | Sugarmaker v2 released
+Mar 14 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-14-2020.md) |  | Sugarmaker win64/32 STATIC binary released!
 Mar 13 | [Telegram](https://t.me/sugarchain) |[Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-13-2020.md) | [The Sugar Chronicle #25]() | Apple Mac (OSX) cpuminer [released!](https://t.co/4SBRyGfjXh?amp=1)
 Mar 12 | [Telegram](https://t.me/sugarchain) |[Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-12-2020.md) | | RaspberryPi cpuminer [released!](https://t.co/2LYBdmWoLO?amp=1) Arm32 arm7l (RaspberryPi) static binary
 Mar 11 | [Telegram](https://t.me/sugarchain) |[Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-11-2020.md) | | [Smartphone mining](https://t.co/bJN0SzV94s?amp=1) is now possible
