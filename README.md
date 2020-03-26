@@ -9,6 +9,14 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Mar 27 | [Telegram](https://t.me/sugarchain) | [Notes]() |  |
+Mar 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-26-2020.md) |  | Donation to Development Fund, Fund Manager: [@AestheticSenpa1](https://twitter.com/AestheticSenpa1), Bech32 (Native SegWit) address is strongly recommended for all purposes, [FAKE ANN](https://t.co/tHYTw8GNvs?amp=1) found and deleted. Thanks Lafu! 
+Mar 25 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-25-2020.md) |  | Apple Mac (OSX) Sugarmaker Mining [Video](https://youtu.be/rbt5cy1_dsg) Tutorial 
+Mar 24 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-24-2020.md) |  | NEW Sugarchain Twitter [Tipbot](https://twitter.com/sugarchain_sato/status/1241946783556628481?s=20) Thanks! [@CryptoLover705](https://twitter.com/CryptoLover705) [@SNagoormira](https://twitter.com/SNagoormira) [@cryptozeny](https://twitter.com/cryptozeny)
+Mar 23 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-23-2020.md) |  | SUGARMAKER v4 released 
+Mar 22 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-22-2020.md) |  | Please contact us if you have a new mining pool, Sugarchain is listed on [erex.io](https://t.co/Ym7hqARpPv?amp=1) 
+Mar 21 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-21-2020.md) |  | Android Mining [Video](https://youtu.be/_XTkU7fTIZk) Tutrorial, New Mining [Pool](https://t.co/Op7lxzOLIr?amp=1) 
+Mar 20 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-20-2020.md) |  | Thanks for running Fullnode https://t.co/q5Qk22q7xc?amp=1
 Mar 19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-19-2020.md) | [The Sugar Chronicle #26]() | Block time still 5 seconds
 Mar 18 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-18-2020.md) |  | Another day of a 5 second block time another day for a chance to solo mine blocks
 Mar 17 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-17-2020.md) |  | Low Difficulty is a great time to solo mine
