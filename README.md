@@ -9,7 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Mar 27 | [Telegram](https://t.me/sugarchain) | [Notes]() |  |
+Mar 27 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #27]  |
 Mar 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-26-2020.md) |  | Donation to Development Fund, Fund Manager: [@AestheticSenpa1](https://twitter.com/AestheticSenpa1), Bech32 (Native SegWit) address is strongly recommended for all purposes, [FAKE ANN](https://t.co/tHYTw8GNvs?amp=1) found and deleted. Thanks Lafu! 
 Mar 25 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-25-2020.md) |  | Apple Mac (OSX) Sugarmaker Mining [Video](https://youtu.be/rbt5cy1_dsg) Tutorial 
 Mar 24 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-24-2020.md) |  | NEW Sugarchain Twitter [Tipbot](https://twitter.com/sugarchain_sato/status/1241946783556628481?s=20) Thanks! [@CryptoLover705](https://twitter.com/CryptoLover705) [@SNagoormira](https://twitter.com/SNagoormira) [@cryptozeny](https://twitter.com/cryptozeny)
