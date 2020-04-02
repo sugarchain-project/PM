@@ -9,12 +9,13 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-Apr  2 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Sugarchain has the most accurate halving in the world. The block reward should be to a power of two, so that it halves correctly.
-Apr  1 | [Telegram](https://t.me/sugarchain) | [Notes]() | | ASIC is out! CPU only mining is OVERRRRRRRR!
-Mar 31 | [Telegram](https://t.me/sugarchain) | [Notes]() | | This month was long, but not as long as the Sugarchain block height due to 5 second block time without fail 
-Mar 30 | [Telegram](https://t.me/sugarchain) | [Notes]() | | slow day
-Mar 29 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Come check out the Sugarchain [Telegram](https://t.me/sugarchain)
-Mar 28 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Block time 5 seconds :) fast blocks > big blocks
+Apr  2 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%204-2-2020.md) | | Sugarchain has the most accurate halving in the world. The block reward should be to a power of two, so that it halves correctly.
+Apr  1 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%204-1-2020.md) | | ASIC is out! CPU only mining is OVERRRRRRRR!
+Mar 31 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-31-2020.md
+) | | This month was long, but not as long as the Sugarchain block height due to 5 second block time without fail 
+Mar 30 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-30-2020.md) | | slow day
+Mar 29 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-29-2020.md) | | Come check out the Sugarchain [Telegram](https://t.me/sugarchain)
+Mar 28 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-28-2020.md) | | Block time 5 seconds :) fast blocks > big blocks
 Mar 27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-27-2020.md) | [The Sugar Chronicle #27](https://medium.com/@Sugarchain/the-sugar-chronicle-27-3-27-20-f178a651f7e3?source=friends_link&sk=c6c3435d29feedcc7fb9d3a6e22ebdcd)  | Introducing Twitter [Tipbot for Sugarchain](https://twitter.com/sugarchain_sato?s=20), [Youtube Tutorial](https://t.co/jm34QXtllv?amp=1)
 Mar 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-26-2020.md) |  | Donation to Development Fund, Fund Manager: [@AestheticSenpa1](https://twitter.com/AestheticSenpa1), Bech32 (Native SegWit) address is strongly recommended for all purposes, [FAKE ANN](https://t.co/tHYTw8GNvs?amp=1) found and deleted. Thanks Lafu! 
 Mar 25 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-25-2020.md) |  | Apple Mac (OSX) Sugarmaker Mining [Video](https://youtu.be/rbt5cy1_dsg) Tutorial 
