@@ -15,6 +15,7 @@ Apr  7 | [Telegram](https://t.me/sugarchain) | [Notes]() | |
 Apr  6 | [Telegram](https://t.me/sugarchain) | [Notes]() | | 
 Apr  5 | [Telegram](https://t.me/sugarchain) | [Notes]() | | 
 Apr  4 | [Telegram](https://t.me/sugarchain) | [Notes]() | | 
+Apr  3 | [Telegram](https://t.me/sugarchain) | [Notes]() | | 
 Apr  2 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%204-2-2020.md) | | Sugarchain has the most accurate halving in the world. The block reward should be to a power of two, so that it halves correctly.
 Apr  1 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%204-1-2020.md) | | ASIC is out! CPU only mining is OVERRRRRRRR!
 Mar 31 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%203-31-2020.md) | | This month was long, but not as long as the Sugarchain block height due to 5 second block time without fail 
