@@ -9,6 +9,13 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Apr 16 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 15 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 14 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Network Status Report: - Hashrate : around 2 MH/s, - Nonce Distribution : OK, - Blocktime : constantly 5 seconds, - Blockchain Size : 2.25 GB, No problem found : ALL GREEN
+Apr 13 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 12 | [Telegram](https://t.me/sugarchain) | [Notes]() | | [Faucet](https://cpu-mining.info/sugarchain-faucet/) Thanks![yentencoin](https://twitter.com/yentencoin)
+Apr 11 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 10 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr  9 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr  8 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr  7 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
