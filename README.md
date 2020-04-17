@@ -9,6 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Apr 17 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #30](https://medium.com/@Sugarchain/the-sugar-chronicle-30-4-17-20-8c673bb450bf?source=friends_link&sk=313330ec2a145b44e51fc4a08a29a160) | *slow day*
 Apr 16 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr 15 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr 14 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Network Status Report: - Hashrate : around 2 MH/s, - Nonce Distribution : OK, - Blocktime : constantly 5 seconds, - Blockchain Size : 2.25 GB, No problem found : ALL GREEN
