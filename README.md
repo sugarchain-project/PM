@@ -9,6 +9,13 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+Apr 24 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #31]() | *slow day*
+Apr 23 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Some DDOS feature for Sugarchain yiimp pools, [Thanks!](https://github.com/barrystyle/yiimp-sugarchain) 
+Apr 22 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 21 | [Telegram](https://t.me/sugarchain) | [Notes]() | | over 3 MH/s!
+Apr 20 | [Telegram](https://t.me/sugarchain) | [Notes]() | | How to get Sugarchain Bech32 address? Thanks! [@yentencoin](https://twitter.com/yentencoin) [@volbil](https://twitter.com/volbil)
+Apr 19 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 18 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr 17 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #30](https://medium.com/@Sugarchain/the-sugar-chronicle-30-4-17-20-8c673bb450bf?source=friends_link&sk=313330ec2a145b44e51fc4a08a29a160) | *slow day*
 Apr 16 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr 15 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
