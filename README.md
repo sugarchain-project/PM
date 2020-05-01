@@ -9,6 +9,14 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+May  1 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 31 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 30 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 29 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%204-29-2020.md) | | [Testnet Explorer](https://t.co/X6jiRnVozL?amp=1). Thanks! [@jangchongchan20](https://t.co/OzixbZwH7h?amp=1)
+Apr 28 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 27 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+Apr 26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%204-26-2020.md) | | [New Explorer](https://t.co/OzixbZwH7h?amp=1), Thanks! [@jangchongchan20](https://t.co/OzixbZwH7h?amp=1)
+Apr 25 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 Apr 24 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #31]() | *slow day*
 Apr 23 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%204-23-2020.md) | | Some DDOS feature for Sugarchain yiimp pools, [Thanks!](https://github.com/barrystyle/yiimp-sugarchain) 
 Apr 22 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
