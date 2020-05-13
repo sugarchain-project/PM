@@ -9,8 +9,8 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-May  11 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Happy Bitcoin Halving! Here is Sugarchain halving [counter](https://sugarchain-blockhalf.github.io)
-May  10 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Optimizing IBD synctime. 25% faster than moonlight.
+May  11 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-11-2020.md) | | Happy Bitcoin Halving! Here is Sugarchain halving [counter](https://sugarchain-blockhalf.github.io)
+May  10 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-10-2020.md) | | Optimizing IBD synctime. 25% faster than moonlight.
 May  9 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  8 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  7 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
