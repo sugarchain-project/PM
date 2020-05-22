@@ -12,11 +12,11 @@ Date | Social | Notes | Medium | Tl;dr
 May  22 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #34]() | *slow day*
 May  21 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  20 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
-May  19 | [Telegram](https://t.me/sugarchain) | [Notes]() | | [Bootstrap](https://github.com/sugarchain-project/bootstrap/releases/tag/4421701) for Sugarchain at Height 4421701
-May  18 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Network Status Report - Hashrate: around 3 MH/s ok, - Nonce Distribution: ok, - Blocktime: constantly 5s ok, - Blockchain Size: around 2 GB, ok
+May  19 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-19-2020.md) | | [Bootstrap](https://github.com/sugarchain-project/bootstrap/releases/tag/4421701) for Sugarchain at Height 4421701
+May  18 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-18-2020.md) | | Network Status Report - Hashrate: around 3 MH/s ok, - Nonce Distribution: ok, - Blocktime: constantly 5s ok, - Blockchain Size: around 2 GB, ok
 May  17 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
-May  16 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Sugarchain listed on [BIFLEX](https://biflex.net/) [SUGAR-BTC](https://biflex.net/exchange/sugar-btc) pair Thanks!
-May  15 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #33](https://medium.com/@Sugarchain/the-sugar-chronicle-33-5-15-20-12a5d40524e6?source=friends_link&sk=cbe0fe35ee847904f75b0f2e5d3c0efc) | New Mining Pool: [XPOOLX](https://xpoolx.com/) Location: France
+May  16 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-16-2020.md) | | Sugarchain listed on [BIFLEX](https://biflex.net/) [SUGAR-BTC](https://biflex.net/exchange/sugar-btc) pair Thanks!
+May  15 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-15-2020.md) | [The Sugar Chronicle #33](https://medium.com/@Sugarchain/the-sugar-chronicle-33-5-15-20-12a5d40524e6?source=friends_link&sk=cbe0fe35ee847904f75b0f2e5d3c0efc) | New Mining Pool: [XPOOLX](https://xpoolx.com/) Location: France
 May  14 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  13 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  12 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
