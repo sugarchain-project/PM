@@ -9,7 +9,8 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-May  26 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Testnet [mining pool](https://1pool-testnet.cryptozeny.com/) is back up
+May  27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-27-2020.md) | | Beta testing reward - Reward: 5k sugar - [Template](https://github.com/sugarchain-project/sugarchain/issues/98) - Report: Github or DM me ~ cryptozeny , [Release STARBOY](https://github.com/sugarchain-project/sugarchain/issues/155)
+May  26 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-26-2020.md) | | Testnet [mining pool](https://1pool-testnet.cryptozeny.com/) is back up
 May  25 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  24 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  23 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
