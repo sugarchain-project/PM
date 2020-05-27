@@ -1,0 +1,1 @@
+1. Beta testing reward - Reward: 5k sugar - [Template](https://github.com/sugarchain-project/sugarchain/issues/98) - Report: Github or DM me ~ cryptozeny , [Release STARBOY](https://github.com/sugarchain-project/sugarchain/issues/155)
