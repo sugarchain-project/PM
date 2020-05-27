@@ -9,6 +9,10 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+May  26 | [Telegram](https://t.me/sugarchain) | [Notes]() | | Testnet [mining pool](https://1pool-testnet.cryptozeny.com/) is back up
+May  25 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+May  24 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+May  23 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  22 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #34](https://medium.com/@Sugarchain/the-sugar-chronicle-34-5-22-20-b90e48191789?source=friends_link&sk=ab5806aff017f127cbd71b6176c9c582) | *slow day*
 May  21 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  20 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
