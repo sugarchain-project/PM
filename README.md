@@ -9,6 +9,14 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
+June  5 | [Telegram](https://t.me/sugarchain) | [Notes]() | | MAINTENANCE:
+Web and Android Wallet is down at this moment. We will notify when its back up. Now server is reindexing...
+June  4 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+June  3 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+June  2 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+June  1 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+May  31 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
+May  30 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  29 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #35](https://medium.com/@Sugarchain/the-sugar-chronicle-35-5-29-20-2e245035340a?source=friends_link&sk=20055d1ee501ca0bbe86b5571802550b)| *slow day*
 May  28 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  27 | [Telegram](https://t.me/sugarchain) | [Notes](https://github.com/sugarchain-project/PM/blob/master/Notes/Activity%20Log%205-27-2020.md) | | Beta testing reward - Reward: 5k sugar - [Template](https://github.com/sugarchain-project/sugarchain/issues/98) - Report: Github or DM me ~ cryptozeny , [Release STARBOY](https://github.com/sugarchain-project/sugarchain/issues/155)
