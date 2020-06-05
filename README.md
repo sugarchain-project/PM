@@ -9,8 +9,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-June  5 | [Telegram](https://t.me/sugarchain) | [Notes]() | | MAINTENANCE:
-Web and Android Wallet is down at this moment. We will notify when its back up. Now server is reindexing...
+June  5 | [Telegram](https://t.me/sugarchain) | [Notes]() | | MAINTENANCE: Web and Android Wallet is down at this moment. We will notify when its back up. Now server is reindexing...
 June  4 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 June  3 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 June  2 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
