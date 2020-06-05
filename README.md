@@ -5,15 +5,18 @@
 ## Activity Log
 A list of activities completed for the day.
 
-
 ### 2020
+Date | Social | Medium | Tl;dr
+|:---|:---|---|:---|
+June  5 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  4 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  3 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  2 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  1 | [Telegram](https://t.me/sugarchain) | | MAINTENANCE: Web and Android Wallet is down at this moment. We will notify when its back up. Now server is reindexing
+
+### 2020 until May
 Date | Social | Notes | Medium | Tl;dr
 |:---|:---|---|:---|:---|
-June  5 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
-June  4 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
-June  3 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
-June  2 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
-June  1 | [Telegram](https://t.me/sugarchain) | [Notes]() | | MAINTENANCE: Web and Android Wallet is down at this moment. We will notify when its back up. Now server is reindexing
 May  31 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  30 | [Telegram](https://t.me/sugarchain) | [Notes]() | | *slow day*
 May  29 | [Telegram](https://t.me/sugarchain) | [Notes]() | [The Sugar Chronicle #35](https://medium.com/@Sugarchain/the-sugar-chronicle-35-5-29-20-2e245035340a?source=friends_link&sk=20055d1ee501ca0bbe86b5571802550b)| *slow day*
