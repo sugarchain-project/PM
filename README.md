@@ -8,6 +8,9 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Medium | Tl;dr
 |:---|:---|---|:---|
+June  8 | [Telegram](https://t.me/sugarchain) | | Exchange Listing: Sugarchain listed on [GX.com](https://gx.com/), Block height is just passed 5000000!
+June  7 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  6 | [Telegram](https://t.me/sugarchain) | | *slow day*
 June  5 | [Telegram](https://t.me/sugarchain) | | New Explorer [*Esplora*](https://sugar.wtf/esplora/) Launched,  Thanks [Volbil](https://twitter.com/volbil?s=20)
 June  4 | [Telegram](https://t.me/sugarchain) | | *slow day*
 June  3 | [Telegram](https://t.me/sugarchain) | | *slow day*
