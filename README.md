@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Medium | Tl;dr
 |:---|:---|---|:---|
+June  12 | [Telegram](https://t.me/sugarchain) | [The Sugar Chronicle #36](https://medium.com/@Sugarchain/the-sugar-chronicle-36-6-12-20-f411af4c39db?source=friends_link&sk=5ced680130c2a281b777d75373f8d39b) | *slow day*
 June  10 | [Telegram](https://t.me/sugarchain) | | [GX.com](https://gx.com/) trading started SUGAR-USDT pair
 June  9 | [Telegram](https://t.me/sugarchain) | | 8 nodes are running in US
 June  8 | [Telegram](https://t.me/sugarchain) | | Exchange Listing: Sugarchain listed on [GX.com](https://gx.com/), Block height is just passed 5000000!
