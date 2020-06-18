@@ -8,6 +8,9 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Medium | Tl;dr
 |:---|:---|---|:---|
+June  15 | [Telegram](https://t.me/sugarchain) | | Testnet Esplora is now online, Thanks! [Volbil](https://twitter.com/volbil?s=20)
+June  14 | [Telegram](https://t.me/sugarchain) | | 1pool, 2pool, 1explorer updated to latest release Starboy
+June  13 | [Telegram](https://t.me/sugarchain) | | Skypool will be down soon. Please move your rigs to another one. , DELISTING [EREX](http://EREX.IO) Please withdraw from this exchange in a day. , 
 June  12 | [Telegram](https://t.me/sugarchain) | [The Sugar Chronicle #36](https://medium.com/@Sugarchain/the-sugar-chronicle-36-6-12-20-f411af4c39db?source=friends_link&sk=5ced680130c2a281b777d75373f8d39b) | *slow day*
 June  10 | [Telegram](https://t.me/sugarchain) | | [GX.com](https://gx.com/) trading started SUGAR-USDT pair
 June  9 | [Telegram](https://t.me/sugarchain) | | 8 nodes are running in US
