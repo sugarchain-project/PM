@@ -8,6 +8,17 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Medium | Tl;dr
 |:---|:---|---|:---|
+June  26 | [Telegram](https://t.me/sugarchain) | [The Sugar Chronicle #36]() | *slow day*
+June  25 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  24 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  23 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  22 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  21 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  20 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  19 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  18 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  17 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  16 | [Telegram](https://t.me/sugarchain) | | *slow day*
 June  15 | [Telegram](https://t.me/sugarchain) | | Testnet Esplora is now online, Thanks! [Volbil](https://twitter.com/volbil?s=20)
 June  14 | [Telegram](https://t.me/sugarchain) | | 1pool, 2pool, 1explorer updated to latest release Starboy
 June  13 | [Telegram](https://t.me/sugarchain) | | Skypool will be down soon. Please move your rigs to another one. , DELISTING [EREX](http://EREX.IO) Please withdraw from this exchange in a day. , 
