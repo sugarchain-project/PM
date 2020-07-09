@@ -8,7 +8,21 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Medium | Tl;dr
 |:---|:---|---|:---|
-June  26 | [Telegram](https://t.me/sugarchain) | [The Sugar Chronicle #36]() | *slow day*
+July 10  | [Telegram](https://t.me/sugarchain) | [The Sugar Chronicle #37]() | *slow day*
+July  9  | [Telegram](https://t.me/sugarchain) | | *slow day*
+July  8  | [Telegram](https://t.me/sugarchain) | | New [Chrome](https://chrome.google.com/webstore/detail/sugarchain-wallet-extensi/pgojdfajgcjjpjnbpfaelnpnjocakldb) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sugarchain-wallet-extension/) extensions of Sugarchain Wallet. Enjoy using these extensions, and remember to logout before exiting your browser  
+July  7  | [Telegram](https://t.me/sugarchain) | | 7K downloads [Sugarchain Yumekawa](https://github.com/sugarchain-project/sugarchain)
+July  6  | [Telegram](https://t.me/sugarchain) | | *slow day*
+July  5  | [Telegram](https://t.me/sugarchain) | | *slow day*
+July  4  | [Telegram](https://t.me/sugarchain) | | *slow day*
+July  3  | [Telegram](https://t.me/sugarchain) | | *slow day*
+July  2  | [Telegram](https://t.me/sugarchain) | | *slow day*
+July  1  | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  30 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  29 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  28 | [Telegram](https://t.me/sugarchain) | | New DNSSEED deployed. Thanks [ROZ](https://twitter.com/ROZ_mofumofu_me?s=20)
+June  27 | [Telegram](https://t.me/sugarchain) | | *slow day*
+June  26 | [Telegram](https://t.me/sugarchain) | [The Sugar Chronicle #36](https://medium.com/@Sugarchain/the-sugar-chronicle-37-6-26-20-a88be4c53e15?source=friends_link&sk=0decb9f93a32251edaa69179662bcfd0) | *slow day*
 June  25 | [Telegram](https://t.me/sugarchain) | | *slow day*
 June  24 | [Telegram](https://t.me/sugarchain) | | *slow day*
 June  23 | [Telegram](https://t.me/sugarchain) | | *slow day*
