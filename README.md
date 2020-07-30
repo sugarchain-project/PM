@@ -8,6 +8,7 @@ A list of activities completed for the day.
 ### 2020
 Date | Social | Medium | Tl;dr
 |:---|:---|---|:---|
+July 29  | [Telegram](https://t.me/sugarchain) | | Zeny lost access to the main Sugarchain Twitter account due to some error resulting in the updates the past weeks to be slow and the bi weekly updates to slow and stop. 
 July 10  | [Telegram](https://t.me/sugarchain) | [The Sugar Chronicle #37]() | *slow day*
 July  9  | [Telegram](https://t.me/sugarchain) | | *slow day*
 July  8  | [Telegram](https://t.me/sugarchain) | | New [Chrome](https://chrome.google.com/webstore/detail/sugarchain-wallet-extensi/pgojdfajgcjjpjnbpfaelnpnjocakldb) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sugarchain-wallet-extension/) extensions of Sugarchain Wallet. Enjoy using these extensions, and remember to logout before exiting your browser  
